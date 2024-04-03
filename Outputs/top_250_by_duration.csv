@@ -1,123 +1,251 @@
-Title,Year,Duration,Calification,Rating
-El moderno Sherlock Holmes,1924,45m,"8,2",A
-El chico,1921,1h 8m,"8,2",A
-El maquinista de La General,1926,1h 18m,"8,1",A
-Antes del atardecer,2004,1h 20m,"8,1",13
-Toy Story,1995,1h 21m,"8,3",A
-Mi vecino Totoro,1988,1h 26m,"8,1",A
-El gigante de hierro,1999,1h 26m,"8,1",A
-Luces de la ciudad,1931,1h 27m,"8,5",A
-Tiempos modernos,1936,1h 27m,"8,5",A
-El rey león,1994,1h 28m,"8,5",A
-Rashomon,1950,1h 28m,"8,2",13
-Senderos de gloria,1957,1h 28m,"8,4",A
-Cuenta conmigo,1986,1h 29m,"8,1",A
-La tumba de las luciérnagas,1988,1h 29m,"8,5",13
-Ladrón de bicicletas,1948,1h 29m,"8,3",A
-Children of Heaven,1997,1h 29m,"8,2",13
-Aladdín,1992,1h 30m,"8,0",A
-Los caballeros de la mesa cuadrada y sus locos seguidores,1975,1h 31m,"8,2",A
-Fresas salvajes,1957,1h 31m,"8,1",7
-"Monstruos, S",2001,1h 32m,"8,1",A
-Mary and Max,2009,1h 32m,"8,1",18
-Trainspotting,1996,1h 33m,"8,1",A
-Siempre a tu lado (Hachiko),2009,1h 33m,"8,1",A
-Del revés (Inside Out),2015,1h 35m,"8,1",18
-¿Teléfono rojo? Volamos hacia Moscú,1964,1h 35m,"8,4",A
-La quimera del oro,1925,1h 35m,"8,1",A
-12 hombres sin piedad,1957,1h 36m,"9,0",A
-Up,2009,1h 36m,"8,3",13
-El séptimo sello,1957,1h 36m,"8,1",7
-Klaus,2019,1h 36m,"8,2",18
-El padre,2020,1h 37m,"8,2",A
-Fargo,1996,1h 38m,"8,1",18
-Cómo entrenar a tu dragón,2010,1h 38m,"8,1",12
-WALL·E,2008,1h 38m,"8,4",18
-El odio,1995,1h 38m,"8,1",A
-El gran hotel Budapest,2014,1h 39m,"8,1",A
-Reservoir Dogs,1992,1h 39m,"8,3",T
-Ser o no ser,1942,1h 39m,"8,1",T
-Buscando a Nemo,2003,1h 40m,"8,2",18
-Atrapado en el tiempo,1993,1h 41m,"8,0",A
-Antes de amanecer,1995,1h 41m,"8,1",A
-Réquiem por un sueño,2000,1h 42m,"8,3",A
-Casablanca,1942,1h 42m,"8,5",A
-El mago de Oz,1939,1h 42m,"8,1",A
-El show de Truman,1998,1h 43m,"8,2",18
-Cantando bajo la lluvia,1952,1h 43m,"8,3",A
-Toy Story 3,2010,1h 43m,"8,3",A
-Snatch,2000,1h 44m,"8,2",A
-El tercer hombre,1949,1h 44m,"8,1",A
-Coco,2017,1h 45m,"8,4",12
-Crimen perfecto,1954,1h 45m,"8,2",18
-Sucedió una noche,1934,1h 45m,"8,1",A
-Whiplash,2014,1h 46m,"8,5",18
-Sospechosos habituales,1995,1h 46m,"8,5",18
-Your Name,2016,1h 46m,"8,4",13
-Lock & Stock,1998,1h 47m,"8,1",A
-Terminator,1984,1h 47m,"8,1",13
-El sexto sentido,1999,1h 47m,"8,2",7
-Perdición,1944,1h 47m,"8,3",13
-¡Olvídate de mí!,2004,1h 48m,"8,3",13
-La ley del silencio,1954,1h 48m,"8,1",18
-La cosa (El enigma de otro mundo),1982,1h 49m,"8,2",13
-Psicosis,1960,1h 49m,"8,5",13
-El profesional (Léon),1994,1h 50m,"8,5",18
-El crepúsculo de los dioses,1950,1h 50m,"8,4",A
-Yojimbo,1961,Apta para mayores,"8,2",7
-La pasión de Juana de Arco,1928,1h 50m,"8,1",A
-Kill Bill: Volumen 1,2003,1h 50m,"8,2",13
-Ratatouille,2007,1h 51m,"8,1",18
-Intocable,2011,1h 51m,"8,5",A
-La ventana indiscreta,1954,1h 52m,"8,5",12
-Mi padre y mi hijo,2005,1h 52m,"8,2",A
-Memento,2000,1h 52m,"8,4",16
-Taxi Driver,1976,1h 53m,"8,2",A
-En busca del arca perdida,1981,1h 54m,"8,4",18
-La caza,2012,1h 55m,"8,3",A
-Los Increíbles,2004,1h 55m,"8,0",13
-Tres anuncios en las afueras,2017,1h 55m,"8,1",A
-Regreso al futuro,1985,1h 55m,"8,5",16
-La chaqueta metálica,1987,1h 56m,"8,3",13
-La vida es bella,1997,1h 56m,"8,6",12
-Gran Torino,2008,1h 56m,"8,1",7
-Testigo de cargo,1957,1h 56m,"8,4",13
-"Alien, el octavo pasajero",1979,1h 56m,"8,5",18
-Blade Runner,1982,1h 57m,"8,1",18
-El gran Lebowski,1998,1h 57m,"8,1",12
-Spider-Man: Un nuevo universo,2018,1h 57m,"8,4",13
-"M, el vampiro de Düsseldorf",1931,1h 57m,"8,3",7
-El silencio de los corderos,1991,1h 57m,"8,6",12
-El laberinto del fauno,2006,1h 58m,"8,2",A
-La habitación,2015,1h 58m,"8,1",2h
-American History X,1998,1h 58m,"8,5",16
-El castillo ambulante,2004,1h 59m,"8,2",2h
-1917,2019,1h 59m,"8,2",18
-Ciudadano Kane,1941,1h 59m,"8,3",2h
-Mad Max: Furia en la carretera,2015,1h 59m,"8,1",18
-Old Boy,2003,2h 1m,"8,3",2h
-Platoon,1986,2h 1m,"8,1",18
-Rocky,1976,2h 1m,"8,1",A
-La guerra de las galaxias,1977,2h 1m,"8,6",A
-Con faldas y a lo loco,1959,2h 1m,"8,2",18
-"Network, un mundo implacable",1976,2h 2m,"8,1",13
-Hotel Rwanda,2004,2h 2m,"8,1",18
-La batalla de Argel,1966,2h 2m,"8,1",18
-No es país para viejos,2007,2h 2m,"8,2",18
-Joker,2019,2h 2m,"8,4",18
-American Beauty,1999,2h 2m,"8,3",13
-El exorcista,1973,2h 3m,"8,1",A
-Amelie,2001,2h 3m,"8,3",16
-Relatos salvajes,2014,2h 4m,"8,1",12
-Rush,2013,2h 4m,"8,1",7
-"Nader y Simin, una separación",2011,2h 4m,"8,3",12
-Godzilla Minus One,2023,2h 4m,"8,3",14
-Tiburón,1975,2h 5m,"8,1",A
-El imperio contraataca,1980,2h 5m,"8,7",14
-El hombre elefante,1980,2h 5m,"8,2",A
-El viaje de Chihiro,2001,2h 6m,"8,6",13
-El apartamento,1960,2h 6m,"8,3",A
-El gran dictador,1940,2h 6m,"8,4",A
-El indomable Will Hunting,1997,2h 7m,"8,3",16
-Cafarnaúm,2018,2h 7m,"8,4",18
-El tesoro de Sierra Madre,1948,2h 7m,"8,2",13
+Movie,Calification,N.Reviews,Year,Duration,Rating
+Cadena perpetua,9.3,2.9M,1994,2h 22m,13
+El padrino,9.2,2M,1972,2h 55m,18
+El caballero oscuro,9.0,2.9M,2008,2h 32m,12
+El padrino parte II,9.0,1.4M,1974,3h 22m,18
+12 hombres sin piedad,9.0,861K,1957,1h 36m,A
+La lista de Schindler,9.0,1.4M,1993,3h 15m,12
+El señor de los anillos: El retorno del rey,9.0,2M,2003,3h 21m,12
+Pulp Fiction,8.9,2.2M,1994,2h 34m,18
+El señor de los anillos: La comunidad del anillo,8.9,2M,2001,2h 58m,12
+"El bueno, el feo y el malo",8.8,809K,1966,3h 2m,13
+Forrest Gump,8.8,2.2M,1994,2h 22m,A
+El señor de los anillos: Las dos torres,8.8,1.8M,2002,2h 59m,12
+El club de la lucha,8.8,2.3M,1999,2h 19m,18
+Origen,8.8,2.5M,2010,2h 28m,12
+Dune: Parte dos,8.8,299K,2024,2h 46m,12
+El imperio contraataca,8.7,1.4M,1980,2h 4m,A
+Matrix,8.7,2M,1999,2h 16m,18
+Uno de los nuestros,8.7,1.3M,1990,2h 25m,18
+Alguien voló sobre el nido del cuco,8.7,1.1M,1975,2h 13m,18
+Seven,8.6,1.8M,1995,2h 7m,18
+Interstellar,8.7,2.1M,2014,2h 49m,12
+¡Qué bello es vivir!,8.6,498K,1946,2h 10m,A
+Los siete samuráis,8.6,366K,1954,3h 27m,A
+El silencio de los corderos,8.6,1.5M,1991,1h 58m,18
+Salvar al soldado Ryan,8.6,1.5M,1998,2h 49m,13
+Ciudad de Dios,8.6,799K,2002,2h 10m,18
+La vida es bella,8.6,741K,1997,1h 56m,A
+La milla verde,8.6,1.4M,1999,3h 9m,13
+Terminator 2: El juicio final,8.6,1.2M,1991,2h 17m,18
+La guerra de las galaxias,8.6,1.4M,1977,2h 1m,A
+Regreso al futuro,8.5,1.3M,1985,1h 56m,A
+El viaje de Chihiro,8.6,845K,2001,2h 5m,A
+El pianista,8.5,909K,2002,2h 30m,13
+Parásitos,8.5,952K,2019,2h 12m,16
+Psicosis,8.5,716K,1960,1h 49m,13
+Spider-Man: Cruzando el multiverso,8.6,363K,2023,2h 20m,7
+Gladiator (El gladiador),8.5,1.6M,2000,2h 35m,12
+El rey león,8.5,1.1M,1994,1h 28m,A
+El profesional (Léon),8.5,1.2M,1994,1h 50m,18
+Infiltrados,8.5,1.4M,2006,2h 31m,18
+American History X,8.5,1.2M,1998,1h 59m,13
+Whiplash,8.5,984K,2014,1h 46m,12
+El truco final (El prestigio),8.5,1.4M,2006,2h 10m,18
+La tumba de las luciérnagas,8.5,309K,1988,1h 29m,13
+Harakiri,8.6,68K,1962,2h 13m,13
+Sospechosos habituales,8.5,1.1M,1995,1h 46m,18
+Casablanca,8.5,605K,1942,1h 42m,A
+Intocable,8.5,926K,2011,1h 52m,7
+Cinema Paradiso,8.5,282K,1988,2h 54m,A
+Tiempos modernos,8.5,259K,1936,1h 27m,A
+La ventana indiscreta,8.5,521K,1954,1h 52m,A
+Hasta que llegó su hora,8.5,348K,1968,2h 46m,13
+"Alien, el octavo pasajero",8.5,947K,1979,1h 57m,16
+Luces de la ciudad,8.5,196K,1931,1h 27m,A
+Apocalypse Now,8.4,708K,1979,2h 27m,18
+Django desencadenado,8.5,1.7M,2012,2h 45m,16
+Memento,8.4,1.3M,2000,1h 53m,13
+12th Fail,9.0,108K,2023,2h 27m,
+WALL·E,8.4,1.2M,2008,1h 38m,A
+En busca del arca perdida,8.4,1M,1981,1h 55m,A
+La vida de los otros,8.4,409K,2006,2h 17m,7
+El crepúsculo de los dioses,8.4,236K,1950,1h 50m,Apta para mayores
+Senderos de gloria,8.4,212K,1957,1h 28m,A
+Vengadores: Infinity War,8.4,1.2M,2018,2h 29m,12
+Spider-Man: Un nuevo universo,8.4,667K,2018,1h 57m,7
+Testigo de cargo,8.4,137K,1957,1h 56m,A
+El resplandor,8.4,1.1M,1980,2h 26m,13
+El gran dictador,8.4,237K,1940,2h 5m,A
+Aliens: El regreso,8.4,761K,1986,2h 17m,13
+Malditos bastardos,8.4,1.6M,2009,2h 33m,18
+El caballero oscuro: La leyenda renace,8.4,1.8M,2012,2h 44m,12
+¿Teléfono rojo? Volamos hacia Moscú,8.4,517K,1964,1h 35m,18
+American Beauty,8.3,1.2M,1999,2h 2m,18
+Old Boy,8.3,633K,2003,2h,18
+Coco,8.4,587K,2017,1h 45m,A
+Amadeus,8.4,426K,1984,2h 40m,A
+Toy Story,8.3,1.1M,1995,1h 21m,A
+El submarino (Das Boot),8.4,264K,1981,2h 29m,13
+Braveheart,8.3,1.1M,1995,2h 58m,18
+Vengadores: Endgame,8.4,1.3M,2019,3h 1m,7
+Joker,8.4,1.5M,2019,2h 2m,18
+La princesa Mononoke,8.3,432K,1997,2h 14m,7
+El indomable Will Hunting,8.3,1.1M,1997,2h 6m,A
+Your Name.,8.4,318K,2016,1h 46m,A
+Érase una vez en América,8.3,377K,1984,3h 49m,18
+El infierno del odio,8.4,53K,1963,2h 23m,13
+3 Idiots,8.4,433K,2009,2h 50m,PG-13
+Cantando bajo la lluvia,8.3,260K,1952,1h 43m,A
+Cafarnaúm,8.4,105K,2018,2h 6m,16
+Oppenheimer,8.3,705K,2023,3h,12
+Réquiem por un sueño,8.3,896K,2000,1h 42m,18
+Masacre (Ven y mira),8.4,96K,1985,2h 22m,18
+Toy Story 3,8.3,890K,2010,1h 43m,A
+El retorno del jedi,8.3,1.1M,1983,2h 11m,A
+¡Olvídate de mí!,8.3,1.1M,2004,1h 48m,13
+La caza,8.3,363K,2012,1h 55m,12
+2001: Una odisea del espacio,8.3,717K,1968,2h 29m,A
+Reservoir Dogs,8.3,1.1M,1992,1h 39m,18
+Vivir,8.3,87K,1952,2h 23m,12
+Lawrence de Arabia,8.3,313K,1962,3h 38m,A
+El apartamento,8.3,196K,1960,2h 5m,13
+Con la muerte en los talones,8.3,345K,1959,2h 16m,13
+Ciudadano Kane,8.3,465K,1941,1h 59m,A
+Incendios,8.3,199K,2010,2h 11m,12
+Vértigo (De entre los muertos),8.3,426K,1958,2h 8m,A
+"M, el vampiro de Düsseldorf",8.3,168K,1931,1h 57m,13
+Perdición,8.3,167K,1944,1h 47m,A
+El precio del poder,8.3,913K,1983,2h 50m,18
+Amelie,8.3,793K,2001,2h 2m,A
+La chaqueta metálica,8.3,788K,1987,1h 56m,18
+La naranja mecánica,8.3,879K,1971,2h 16m,(Banned)
+Heat,8.3,717K,1995,2h 50m,13
+Up,8.3,1.1M,2009,1h 36m,A
+Matar a un ruiseñor,8.3,332K,1962,2h 9m,18
+El golpe,8.3,279K,1973,2h 9m,A
+"Nader y Simin, una separación",8.3,258K,2011,2h 3m,7
+Indiana Jones y la última cruzada,8.2,809K,1989,2h 7m,A
+Jungla de cristal,8.2,943K,1988,2h 12m,12
+Metrópolis,8.3,185K,1927,2h 33m,A
+Taare Zameen Par,8.3,206K,2007,2h 42m,PG
+Hamilton,8.3,113K,2020,2h 40m,12
+Snatch. Cerdos y diamantes,8.2,908K,2000,1h 44m,18
+L.A. Confidential,8.2,616K,1997,2h 18m,18
+Ladrón de bicicletas,8.3,175K,1948,1h 29m,A
+1917,8.2,672K,2019,1h 59m,12
+Taxi Driver,8.2,917K,1976,1h 54m,18
+El hundimiento,8.2,374K,2004,2h 36m,18
+Dangal,8.3,210K,2016,2h 41m,A
+La muerte tenía un precio,8.2,274K,1965,2h 12m,18
+Batman Begins,8.2,1.6M,2005,2h 20m,12
+El lobo de Wall Street,8.2,1.6M,2013,3h,16
+Con faldas y a lo loco,8.2,283K,1959,2h 1m,A
+El chico,8.2,134K,1921,1h 8m,A
+Green Book,8.2,567K,2018,2h 10m,12
+El padre,8.2,192K,2020,1h 37m,7
+Vencedores o vencidos,8.3,85K,1961,2h 59m,18
+Eva al desnudo,8.2,138K,1950,2h 18m,13
+El show de Truman,8.2,1.2M,1998,1h 43m,A
+Top Gun: Maverick,8.2,690K,2022,2h 10m,12
+Shutter Island,8.2,1.4M,2010,2h 18m,13
+Pozos de ambición,8.2,639K,2007,2h 38m,13
+Casino,8.2,562K,1995,2h 58m,18
+Ran,8.2,136K,1985,2h 40m,13
+Jurassic Park (Parque Jurásico),8.2,1.1M,1993,2h 7m,13
+El sexto sentido,8.2,1M,1999,1h 47m,13
+El laberinto del fauno,8.2,702K,2006,1h 58m,18
+Sin perdón,8.2,435K,1992,2h 10m,18
+No es país para viejos,8.2,1.1M,2007,2h 2m,18
+Una mente maravillosa,8.2,984K,2001,2h 15m,A
+La cosa (El enigma de otro mundo),8.2,465K,1982,1h 49m,13
+El tesoro de Sierra Madre,8.2,132K,1948,2h 6m,Passed
+Kill Bill: Volumen 1,8.2,1.2M,2003,1h 51m,18
+Yojimbo,8.2,131K,1961,1h 50m,13
+Los caballeros de la mesa cuadrada y sus locos seguidores,8.2,569K,1975,1h 31m,A
+La gran evasión,8.2,258K,1963,2h 52m,18
+Buscando a Nemo,8.2,1.1M,2003,1h 40m,A
+Rashomon,8.2,180K,1950,1h 28m,13
+Prisioneros,8.2,806K,2013,2h 33m,16
+El castillo ambulante,8.2,447K,2004,1h 59m,7
+El hombre elefante,8.2,258K,1980,2h 4m,14
+Chinatown,8.1,349K,1974,2h 10m,A
+Crimen perfecto,8.2,188K,1954,1h 45m,A
+Lo que el viento se llevó,8.2,333K,1939,3h 58m,A
+V de vendetta,8.2,1.2M,2005,2h 12m,12
+Lock & Stock,8.1,615K,1998,1h 47m,18
+El secreto de sus ojos,8.2,222K,2009,2h 9m,7
+Del revés (Inside Out),8.1,782K,2015,1h 35m,A
+Toro salvaje,8.1,379K,1980,2h 9m,13
+Tres anuncios en las afueras,8.1,553K,2017,1h 55m,16
+Trainspotting,8.1,724K,1996,1h 33m,18
+El puente sobre el río Kwai,8.1,233K,1957,2h 41m,A
+Spider-Man: No Way Home,8.2,874K,2021,2h 28m,7
+Fargo,8.1,725K,1996,1h 38m,18
+Klaus,8.2,189K,2019,1h 36m,A/i
+Warrior,8.1,497K,2011,2h 20m,12
+Atrápame si puedes,8.1,1.1M,2002,2h 21m,7
+Godzilla Minus One,8.3,47K,2023,2h 4m,12
+Gran Torino,8.1,813K,2008,1h 56m,13
+Mi vecino Totoro,8.1,378K,1988,1h 26m,A
+Million Dollar Baby,8.1,720K,2004,2h 12m,13
+Harry Potter y las Reliquias de la Muerte: Parte 2,8.1,945K,2011,2h 10m,7
+Children of Heaven,8.2,80K,1997,1h 29m,13
+12 años de esclavitud,8.1,740K,2013,2h 14m,16
+Blade Runner,8.1,821K,1982,1h 57m,13
+Antes de amanecer,8.1,338K,1995,1h 41m,T
+Ben-Hur,8.1,253K,1959,3h 32m,A
+El gran hotel Budapest,8.1,884K,2014,1h 39m,12
+Barry Lyndon,8.1,183K,1975,3h 5m,18
+Perdida,8.1,1.1M,2014,2h 29m,16
+Hasta el último hombre (Hacksaw Ridge),8.1,591K,2016,2h 19m,16
+La quimera del oro,8.1,118K,1925,1h 35m,A
+Memories of Murder (Crónica de un asesino en serie),8.1,215K,2003,2h 11m,18
+En el nombre del padre,8.1,187K,1993,2h 13m,13
+El club de los poetas muertos,8.1,543K,1989,2h 8m,13
+La ley del silencio,8.1,164K,1954,1h 48m,7
+El maquinista de La General,8.1,98K,1926,1h 18m,A
+El cazador,8.1,361K,1978,3h 3m,18
+Relatos salvajes,8.1,216K,2014,2h 2m,16
+Mad Max: Furia en la carretera,8.1,1.1M,2015,2h,16
+"Monstruos, S.A.",8.1,976K,2001,1h 32m,A
+El moderno Sherlock Holmes,8.2,57K,1924,45m,A
+El tercer hombre,8.1,181K,1949,1h 44m,A
+Fresas salvajes,8.1,115K,1957,1h 31m,7
+El salario del miedo,8.2,66K,1953,2h 11m,Not Rated
+Tiburón,8.1,657K,1975,2h 4m,14
+Cómo entrenar a tu dragón,8.1,798K,2010,1h 38m,7/i
+Mary and Max,8.1,186K,2009,1h 32m,Not Rated
+Caballero sin espada,8.1,121K,1939,2h 9m,A
+Ratatouille,8.1,821K,2007,1h 51m,A
+Le Mans '66,8.1,469K,2019,2h 32m,7
+El gran Lebowski,8.1,858K,1998,1h 57m,12
+El séptimo sello,8.1,198K,1957,1h 36m,13
+La habitación,8.1,449K,2015,1h 58m,12
+Cuentos de Tokio,8.1,68K,1953,2h 16m,A
+Rocky,8.1,627K,1976,2h,18
+Logan,8.1,828K,2017,2h 17m,16
+Spotlight,8.1,501K,2015,2h 9m,12
+Hotel Rwanda,8.1,371K,2004,2h 1m,13
+Platoon,8.1,438K,1986,2h,18
+Terminator,8.1,922K,1984,1h 47m,18
+La pasión de Juana de Arco,8.1,60K,1928,1h 50m,13
+Antes del atardecer,8.1,287K,2004,1h 20m,13
+El odio,8.1,196K,1995,1h 38m,18
+Los mejores años de nuestra vida,8.1,70K,1946,2h 50m,A
+El exorcista,8.1,453K,1973,2h 2m,13
+Piratas del Caribe: La maldición de la Perla Negra,8.1,1.2M,2003,2h 23m,7
+Rush,8.1,512K,2013,2h 3m,12
+Jai Bhim,8.7,217K,2021,2h 44m,Not Rated
+"Network, un mundo implacable",8.1,170K,1976,2h 1m,18
+Cuenta conmigo,8.1,440K,1986,1h 29m,A
+El mago de Oz,8.1,428K,1939,1h 42m,A
+Los Increíbles,8.0,806K,2004,1h 55m,A
+Siempre a tu lado (Hachiko),8.1,310K,2009,1h 33m,A
+La doncella,8.1,172K,2016,2h 25m,16
+Hacia rutas salvajes,8.1,657K,2007,2h 28m,7
+Mi padre y mi hijo,8.2,92K,2005,1h 52m,Not Rated
+Sonrisas y lágrimas,8.1,260K,1965,2h 52m,A
+Las uvas de la ira,8.1,100K,1940,2h 9m,A
+La batalla de Argel,8.1,65K,1966,2h 1m,18
+Ser o no ser,8.1,43K,1942,1h 39m,A
+Atrapado en el tiempo,8.0,683K,1993,1h 41m,T
+Amores perros,8.1,252K,2000,2h 34m,18
+Rebeca,8.1,146K,1940,2h 10m,14
+La leyenda del indomable,8.1,188K,1967,2h 7m,7
+El gigante de hierro,8.1,226K,1999,1h 26m,A
+Criadas y señoras,8.1,491K,2011,2h 26m,A
+Sucedió una noche,8.1,112K,1934,1h 45m,A
+Aladdín,8.0,465K,1992,1h 30m,A
+Bailando con lobos,8.0,290K,1990,3h 1m,A
+"Paris, Texas",8.1,118K,1984,2h 25m,A
