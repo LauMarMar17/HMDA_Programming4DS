@@ -1,52 +1,52 @@
 Date,Title,Genres
-"Apr 04, 2024",Monkey Man (2024),"['Action', 'Thriller', 'Pitobash', 'Thriller', 'Drama', 'Mystery', 'Thriller', 'Comedy']"
-"Apr 04, 2024",Tatami (2023),"['Action', 'Thriller', 'Pitobash', 'Thriller', 'Drama', 'Mystery', 'Thriller', 'Comedy']"
-"Apr 04, 2024",Autobiography (2022),"['Action', 'Thriller', 'Pitobash', 'Thriller', 'Drama', 'Mystery', 'Thriller', 'Comedy']"
-"Apr 04, 2024",Zamora (2024),"['Action', 'Thriller', 'Pitobash', 'Thriller', 'Drama', 'Mystery', 'Thriller', 'Comedy']"
+"Apr 04, 2024",Monkey Man (2024),"['Action', 'Thriller', 'Pitobash']"
+"Apr 04, 2024",Tatami (2023),['Thriller']
+"Apr 04, 2024",Autobiography (2022),"['Drama', 'Mystery', 'Thriller']"
+"Apr 04, 2024",Zamora (2024),['Comedy']
 "Apr 05, 2024",The First Omen (2024),['Horror']
-"Apr 11, 2024",Ghostbusters: Frozen Empire (2024),"['Adventure', 'Comedy', 'Fantasy', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Romance', 'Comedy', 'Crime', 'Drama', 'Animation', 'Adventure', 'Musical', 'Drama', 'History', 'Drama', 'Drama', 'Comedy']"
-"Apr 11, 2024",Soul (2020),"['Adventure', 'Comedy', 'Fantasy', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Romance', 'Comedy', 'Crime', 'Drama', 'Animation', 'Adventure', 'Musical', 'Drama', 'History', 'Drama', 'Drama', 'Comedy']"
-"Apr 11, 2024",What Happens Later (2023),"['Adventure', 'Comedy', 'Fantasy', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Romance', 'Comedy', 'Crime', 'Drama', 'Animation', 'Adventure', 'Musical', 'Drama', 'History', 'Drama', 'Drama', 'Comedy']"
-"Apr 11, 2024",The Delinquents (2023),"['Adventure', 'Comedy', 'Fantasy', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Romance', 'Comedy', 'Crime', 'Drama', 'Animation', 'Adventure', 'Musical', 'Drama', 'History', 'Drama', 'Drama', 'Comedy']"
-"Apr 11, 2024",Noah's Ark (2024),"['Adventure', 'Comedy', 'Fantasy', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Romance', 'Comedy', 'Crime', 'Drama', 'Animation', 'Adventure', 'Musical', 'Drama', 'History', 'Drama', 'Drama', 'Comedy']"
-"Apr 11, 2024",Gloria! (2024),"['Adventure', 'Comedy', 'Fantasy', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Romance', 'Comedy', 'Crime', 'Drama', 'Animation', 'Adventure', 'Musical', 'Drama', 'History', 'Drama', 'Drama', 'Comedy']"
-"Apr 11, 2024",And the Party Goes On (2023),"['Adventure', 'Comedy', 'Fantasy', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Romance', 'Comedy', 'Crime', 'Drama', 'Animation', 'Adventure', 'Musical', 'Drama', 'History', 'Drama', 'Drama', 'Comedy']"
-"Apr 11, 2024",Gli agnelli possono pascolare in pace (2024),"['Adventure', 'Comedy', 'Fantasy', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Romance', 'Comedy', 'Crime', 'Drama', 'Animation', 'Adventure', 'Musical', 'Drama', 'History', 'Drama', 'Drama', 'Comedy']"
-"Apr 11, 2024",Flaminia (2024),"['Adventure', 'Comedy', 'Fantasy', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Romance', 'Comedy', 'Crime', 'Drama', 'Animation', 'Adventure', 'Musical', 'Drama', 'History', 'Drama', 'Drama', 'Comedy']"
-"Apr 15, 2024",Songs of Earth (2023),"['Documentary', 'Biography', 'Animation', 'Drama', 'Fantasy', 'Biography', 'History']"
-"Apr 15, 2024","The Tunnel to Summer, the Exit of Goodbyes (2022)","['Documentary', 'Biography', 'Animation', 'Drama', 'Fantasy', 'Biography', 'History']"
-"Apr 15, 2024",C'è anche domani (2024),"['Documentary', 'Biography', 'Animation', 'Drama', 'Fantasy', 'Biography', 'History']"
-"Apr 18, 2024",Civil War (2024),"['Action', 'Comedy', 'Crime', 'Drama', 'Biography', 'Drama', 'Music', 'Adventure', 'Drama', 'Family', 'Drama', 'Comedy', 'Drama', 'Mystery', 'Drama']"
-"Apr 18, 2024",Wicked Little Letters (2023),"['Action', 'Comedy', 'Crime', 'Drama', 'Biography', 'Drama', 'Music', 'Adventure', 'Drama', 'Family', 'Drama', 'Comedy', 'Drama', 'Mystery', 'Drama']"
-"Apr 18, 2024",Back to Black (2024),"['Action', 'Comedy', 'Crime', 'Drama', 'Biography', 'Drama', 'Music', 'Adventure', 'Drama', 'Family', 'Drama', 'Comedy', 'Drama', 'Mystery', 'Drama']"
-"Apr 18, 2024",A Cat's Life (2023),"['Action', 'Comedy', 'Crime', 'Drama', 'Biography', 'Drama', 'Music', 'Adventure', 'Drama', 'Family', 'Drama', 'Comedy', 'Drama', 'Mystery', 'Drama']"
-"Apr 18, 2024",Ama Gloria (2023),"['Action', 'Comedy', 'Crime', 'Drama', 'Biography', 'Drama', 'Music', 'Adventure', 'Drama', 'Family', 'Drama', 'Comedy', 'Drama', 'Mystery', 'Drama']"
-"Apr 18, 2024",The Falling Star (2023),"['Action', 'Comedy', 'Crime', 'Drama', 'Biography', 'Drama', 'Music', 'Adventure', 'Drama', 'Family', 'Drama', 'Comedy', 'Drama', 'Mystery', 'Drama']"
-"Apr 18, 2024",Brigitte Bardot cudowna (2021),"['Action', 'Comedy', 'Crime', 'Drama', 'Biography', 'Drama', 'Music', 'Adventure', 'Drama', 'Family', 'Drama', 'Comedy', 'Drama', 'Mystery', 'Drama']"
+"Apr 11, 2024",Ghostbusters: Frozen Empire (2024),"['Adventure', 'Comedy', 'Fantasy']"
+"Apr 11, 2024",Soul (2020),"['Animation', 'Adventure', 'Comedy']"
+"Apr 11, 2024",What Happens Later (2023),"['Comedy', 'Romance']"
+"Apr 11, 2024",The Delinquents (2023),"['Comedy', 'Crime', 'Drama']"
+"Apr 11, 2024",Noah's Ark (2024),"['Animation', 'Adventure', 'Musical']"
+"Apr 11, 2024",Gloria! (2024),"['Drama', 'History']"
+"Apr 11, 2024",And the Party Goes On (2023),['Drama']
+"Apr 11, 2024",Gli agnelli possono pascolare in pace (2024),['Drama']
+"Apr 11, 2024",Flaminia (2024),['Comedy']
+"Apr 15, 2024",Songs of Earth (2023),"['Documentary', 'Biography']"
+"Apr 15, 2024","The Tunnel to Summer, the Exit of Goodbyes (2022)","['Animation', 'Drama', 'Fantasy']"
+"Apr 15, 2024",C'è anche domani (2024),"['Biography', 'History']"
+"Apr 18, 2024",Civil War (2024),['Action']
+"Apr 18, 2024",Wicked Little Letters (2023),"['Comedy', 'Crime', 'Drama']"
+"Apr 18, 2024",Back to Black (2024),"['Biography', 'Drama', 'Music']"
+"Apr 18, 2024",A Cat's Life (2023),"['Adventure', 'Drama', 'Family']"
+"Apr 18, 2024",Ama Gloria (2023),['Drama']
+"Apr 18, 2024",The Falling Star (2023),"['Comedy', 'Drama', 'Mystery']"
+"Apr 18, 2024",Brigitte Bardot cudowna (2021),['Drama']
 "Apr 19, 2024",Abigail (2024),"['Horror', 'Thriller']"
 "Apr 22, 2024",Perfect Blue (1997),"['Animation', 'Crime', 'Drama']"
-"Apr 24, 2024",Challengers (2024),"['Drama', 'Romance', 'Sport', 'Zendaya', 'Comedy', 'Drama', 'Animation', 'Action', 'Comedy', 'Drama', 'Thriller', 'Drama', 'Comedy']"
-"Apr 24, 2024",May December (2023),"['Drama', 'Romance', 'Sport', 'Zendaya', 'Comedy', 'Drama', 'Animation', 'Action', 'Comedy', 'Drama', 'Thriller', 'Drama', 'Comedy']"
-"Apr 24, 2024",Spy x Family Code: White (2023),"['Drama', 'Romance', 'Sport', 'Zendaya', 'Comedy', 'Drama', 'Animation', 'Action', 'Comedy', 'Drama', 'Thriller', 'Drama', 'Comedy']"
-"Apr 24, 2024",Just the Two of Us (2023),"['Drama', 'Romance', 'Sport', 'Zendaya', 'Comedy', 'Drama', 'Animation', 'Action', 'Comedy', 'Drama', 'Thriller', 'Drama', 'Comedy']"
-"Apr 24, 2024",Trust (2024),"['Drama', 'Romance', 'Sport', 'Zendaya', 'Comedy', 'Drama', 'Animation', 'Action', 'Comedy', 'Drama', 'Thriller', 'Drama', 'Comedy']"
-"Apr 24, 2024",Bernadette (2023),"['Drama', 'Romance', 'Sport', 'Zendaya', 'Comedy', 'Drama', 'Animation', 'Action', 'Comedy', 'Drama', 'Thriller', 'Drama', 'Comedy']"
-"Apr 25, 2024",Luca (2021),"['Animation', 'Adventure', 'Comedy', 'Drama', 'Drama']"
-"Apr 25, 2024",All to Play For (2023),"['Animation', 'Adventure', 'Comedy', 'Drama', 'Drama']"
-"Apr 25, 2024",Il mio posto è qui (2024),"['Animation', 'Adventure', 'Comedy', 'Drama', 'Drama']"
-"May 01, 2024",The Fall Guy (2024),"['Action', 'Comedy', 'Drama', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Drama', 'Documentary', 'Drama']"
-"May 01, 2024",The Garfield Movie (2024),"['Action', 'Comedy', 'Drama', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Drama', 'Documentary', 'Drama']"
-"May 01, 2024",The Monk and the Gun (2023),"['Action', 'Comedy', 'Drama', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Drama', 'Documentary', 'Drama']"
-"May 01, 2024",Anselm (2023),"['Action', 'Comedy', 'Drama', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Drama', 'Documentary', 'Drama']"
-"May 01, 2024",Explanation for Everything (2023),"['Action', 'Comedy', 'Drama', 'Animation', 'Adventure', 'Comedy', 'Comedy', 'Drama', 'Documentary', 'Drama']"
+"Apr 24, 2024",Challengers (2024),"['Drama', 'Romance', 'Sport', 'Zendaya']"
+"Apr 24, 2024",May December (2023),"['Comedy', 'Drama']"
+"Apr 24, 2024",Spy x Family Code: White (2023),"['Animation', 'Action', 'Comedy']"
+"Apr 24, 2024",Just the Two of Us (2023),"['Drama', 'Thriller']"
+"Apr 24, 2024",Trust (2024),['Drama']
+"Apr 24, 2024",Bernadette (2023),['Comedy']
+"Apr 25, 2024",Luca (2021),"['Animation', 'Adventure', 'Comedy']"
+"Apr 25, 2024",All to Play For (2023),['Drama']
+"Apr 25, 2024",Il mio posto è qui (2024),['Drama']
+"May 01, 2024",The Fall Guy (2024),"['Action', 'Comedy', 'Drama']"
+"May 01, 2024",The Garfield Movie (2024),"['Animation', 'Adventure', 'Comedy']"
+"May 01, 2024",The Monk and the Gun (2023),"['Comedy', 'Drama']"
+"May 01, 2024",Anselm (2023),['Documentary']
+"May 01, 2024",Explanation for Everything (2023),['Drama']
 "May 07, 2024",Eileen (2023),"['Drama', 'Mystery', 'Thriller']"
-"May 09, 2024",The Taste of Things (2023),"['Drama', 'History', 'Romance', 'Horror', 'Avantika']"
-"May 09, 2024",Tarot (2024),"['Drama', 'History', 'Romance', 'Horror', 'Avantika']"
-"May 16, 2024",Bonnard: Pierre & Marthe (2023),"['Biography', 'Drama', 'Romance', 'Drama']"
-"May 16, 2024",El Paraiso (2023),"['Biography', 'Drama', 'Romance', 'Drama']"
+"May 09, 2024",The Taste of Things (2023),"['Drama', 'History', 'Romance']"
+"May 09, 2024",Tarot (2024),"['Horror', 'Avantika']"
+"May 16, 2024",Bonnard: Pierre & Marthe (2023),"['Biography', 'Drama', 'Romance']"
+"May 16, 2024",El Paraiso (2023),['Drama']
 "May 17, 2024",Je Jatt Vigad Gya (2024),['Drama']
-"May 23, 2024",Furiosa: A Mad Max Saga (2024),"['Action', 'Adventure', 'Sci-Fi', 'Comedy', 'Drama']"
-"May 23, 2024",Daaaaaali! (2023),"['Action', 'Adventure', 'Sci-Fi', 'Comedy', 'Drama']"
+"May 23, 2024",Furiosa: A Mad Max Saga (2024),"['Action', 'Adventure', 'Sci-Fi']"
+"May 23, 2024",Daaaaaali! (2023),"['Comedy', 'Drama']"
 "May 24, 2024",Kingdom of the Planet of the Apes (2024),"['Action', 'Sci-Fi']"
 "May 30, 2024",Hit Man (2023),"['Action', 'Comedy', 'Retta']"
 "Jun 05, 2024",The Watchers (2024),"['Fantasy', 'Horror', 'Mystery']"

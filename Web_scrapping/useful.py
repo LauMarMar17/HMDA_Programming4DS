@@ -83,18 +83,20 @@ def extract_newreleases_data(soup):
 
     tables = soup.find_all('article')
     for table in tables:
-        date = table.find('h3', class_='ipc-title__text').text
-        titles = [title.text for title in table.find_all('a', class_='ipc-metadata-list-summary-item__t')]
-        genre = [genre.text for genre in table.find_all('span', class_='ipc-metadata-list-summary-item__li')]
-        # from genres select only those with 1 word
-        genre = [g for g in genre if len(g.split()) == 1]
-        # if there is no genre then add 'Unknown'
-        if len(genre) == 0:
-            genre = ['Unknown']
+        movies = table.find_all('li', class_='ipc-metadata-list-summary-item ipc-metadata-list-summary-item--click sc-8c2b7f1f-0 eWVqBf') 
+        for movie in movies:
+            date = table.find('h3', class_='ipc-title__text').text
+            titles = [title.text for title in movie.find_all('a', class_='ipc-metadata-list-summary-item__t')]
+            genre = [genre.text for genre in movie.find_all('span', class_='ipc-metadata-list-summary-item__li')]
+            # from genres select only those with 1 word
+            genre = [g for g in genre if len(g.split()) == 1]
+            # if there is no genre then add 'Unknown'
+            if len(genre) == 0:
+                genre = ['Unknown']
         
-        # Add to dataframe
-        for title in titles:
-            df.loc[len(df)] = [date, title, genre]
+            # Add to dataframe
+            for title in titles:
+                df.loc[len(df)] = [date, title, genre]
     return df
 
 
