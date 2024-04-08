@@ -1,251 +1,251 @@
 Movie,Calification,N.Reviews,Year,Duration,Rating
-Cadena perpetua,9.3,2.9M,1994,142,13
-El padrino,9.2,2M,1972,175,18
-El caballero oscuro,9.0,2.9M,2008,152,13
-El padrino parte II,9.0,1.4M,1974,202,18
-12 hombres sin piedad,9.0,861K,1957,96,A
-La lista de Schindler,9.0,1.4M,1993,195,13
-El señor de los anillos: El retorno del rey,9.0,2M,2003,201,13
-Pulp Fiction,8.9,2.2M,1994,154,18
-El señor de los anillos: La comunidad del anillo,8.9,2M,2001,178,13
-"El bueno, el feo y el malo",8.8,809K,1966,182,13
-Forrest Gump,8.8,2.2M,1994,142,A
-El señor de los anillos: Las dos torres,8.8,1.8M,2002,179,13
-El club de la lucha,8.8,2.3M,1999,139,18
-Origen,8.8,2.5M,2010,148,13
-Dune: Parte dos,8.8,300K,2024,166,13
-El imperio contraataca,8.7,1.4M,1980,124,A
-Matrix,8.7,2M,1999,136,18
-Uno de los nuestros,8.7,1.3M,1990,145,18
-Alguien voló sobre el nido del cuco,8.7,1.1M,1975,133,18
-Seven,8.6,1.8M,1995,127,18
-Interstellar,8.7,2.1M,2014,169,13
-¡Qué bello es vivir!,8.6,498K,1946,130,A
-Los siete samuráis,8.6,366K,1954,207,A
-El silencio de los corderos,8.6,1.5M,1991,118,18
-Salvar al soldado Ryan,8.6,1.5M,1998,169,13
-Ciudad de Dios,8.6,799K,2002,130,18
-La vida es bella,8.6,741K,1997,116,A
-La milla verde,8.6,1.4M,1999,189,13
-Terminator 2: El juicio final,8.6,1.2M,1991,137,18
-La guerra de las galaxias,8.6,1.4M,1977,121,A
-Regreso al futuro,8.5,1.3M,1985,116,A
-El viaje de Chihiro,8.6,846K,2001,125,A
-El pianista,8.5,909K,2002,150,13
-Parásitos,8.5,952K,2019,132,16
-Psicosis,8.5,716K,1960,109,13
-Spider-Man: Cruzando el multiverso,8.6,363K,2023,140,7
-Gladiator (El gladiador),8.5,1.6M,2000,155,13
-El rey león,8.5,1.1M,1994,88,A
-El profesional (Léon),8.5,1.2M,1994,110,18
-Infiltrados,8.5,1.4M,2006,151,18
-American History X,8.5,1.2M,1998,119,13
-Whiplash,8.5,984K,2014,106,13
-El truco final (El prestigio),8.5,1.4M,2006,130,18
-La tumba de las luciérnagas,8.5,309K,1988,89,13
-Harakiri,8.6,68K,1962,133,13
-Sospechosos habituales,8.5,1.1M,1995,106,18
-Casablanca,8.5,605K,1942,102,A
-Intocable,8.5,926K,2011,112,7
-Cinema Paradiso,8.5,282K,1988,174,A
-Tiempos modernos,8.5,259K,1936,87,A
-La ventana indiscreta,8.5,521K,1954,112,A
-Hasta que llegó su hora,8.5,348K,1968,166,13
-"Alien, el octavo pasajero",8.5,947K,1979,117,16
-Luces de la ciudad,8.5,196K,1931,87,A
-Apocalypse Now,8.4,708K,1979,147,18
-Django desencadenado,8.5,1.7M,2012,165,16
-Memento,8.4,1.3M,2000,113,13
+The Shawshank Redemption,9.3,2.9M,1994,142,+18
+The Godfather,9.2,2M,1972,175,+18
+The Dark Knight,9.0,2.9M,2008,152,+13
+The Godfather Part II,9.0,1.4M,1974,202,+18
+12 Angry Men,9.0,861K,1957,96,A
+Schindler's List,9.0,1.4M,1993,195,+18
+The Lord of the Rings: The Return of the King,9.0,2M,2003,201,+13
+Pulp Fiction,8.9,2.2M,1994,154,+18
+The Lord of the Rings: The Fellowship of the Ring,8.9,2M,2001,178,+13
+"The Good, the Bad and the Ugly",8.8,809K,1966,178,A
+Forrest Gump,8.8,2.2M,1994,142,+13
+The Lord of the Rings: The Two Towers,8.8,1.8M,2002,179,+13
+Fight Club,8.8,2.3M,1999,139,+18
+Inception,8.8,2.5M,2010,148,+13
+Dune: Part Two,8.8,301K,2024,166,+13
+Star Wars: Episode V - The Empire Strikes Back,8.7,1.4M,1980,124,+7
+The Matrix,8.7,2M,1999,136,+18
+Goodfellas,8.7,1.3M,1990,145,+18
+One Flew Over the Cuckoo's Nest,8.7,1.1M,1975,133,+18
+Se7en,8.6,1.8M,1995,127,+18
+Interstellar,8.7,2.1M,2014,169,+13
+It's a Wonderful Life,8.6,498K,1946,130,+7
+Seven Samurai,8.6,366K,1954,207,Not Rated
+The Silence of the Lambs,8.6,1.5M,1991,118,+18
+Saving Private Ryan,8.6,1.5M,1998,169,+18
+City of God,8.6,799K,2002,130,+18
+Life Is Beautiful,8.6,741K,1997,116,+13
+The Green Mile,8.6,1.4M,1999,189,+18
+Terminator 2: Judgment Day,8.6,1.2M,1991,137,+18
+Star Wars: Episode IV - A New Hope,8.6,1.4M,1977,121,+7
+Back to the Future,8.5,1.3M,1985,116,+7
+Spirited Away,8.6,846K,2001,125,+7
+The Pianist,8.5,909K,2002,150,+18
+Parasite,8.5,952K,2019,132,+18
+Psycho,8.5,716K,1960,109,+18
+Spider-Man: Across the Spider-Verse,8.6,363K,2023,140,+7
+Gladiator,8.5,1.6M,2000,155,+18
+The Lion King,8.5,1.1M,1994,88,A
+Léon: The Professional,8.5,1.2M,1994,110,+18
+The Departed,8.5,1.4M,2006,151,+18
+American History X,8.5,1.2M,1998,119,+18
+Whiplash,8.5,984K,2014,106,+18
+The Prestige,8.5,1.4M,2006,130,+13
+Grave of the Fireflies,8.5,309K,1988,89,Not Rated
+Harakiri,8.6,68K,1962,133,Not Rated
+The Usual Suspects,8.5,1.1M,1995,106,+18
+Casablanca,8.5,605K,1942,102,+7
+The Intouchables,8.5,926K,2011,112,+18
+Cinema Paradiso,8.5,282K,1988,174,+7
+Modern Times,8.5,259K,1936,87,A
+Rear Window,8.5,521K,1954,112,+7
+Once Upon a Time in the West,8.5,348K,1968,166,+13
+Alien,8.5,947K,1979,117,+18
+City Lights,8.5,196K,1931,87,A
+Apocalypse Now,8.4,708K,1979,147,+18
+Django Unchained,8.5,1.7M,2012,165,+18
+Memento,8.4,1.3M,2000,113,+18
 12th Fail,9.0,108K,2023,147,
 WALL·E,8.4,1.2M,2008,98,A
-En busca del arca perdida,8.4,1M,1981,115,A
-La vida de los otros,8.4,409K,2006,137,7
-El crepúsculo de los dioses,8.4,236K,1950,110,18
-Senderos de gloria,8.4,212K,1957,88,A
-Vengadores: Infinity War,8.4,1.2M,2018,149,13
-Spider-Man: Un nuevo universo,8.4,667K,2018,117,7
-Testigo de cargo,8.4,137K,1957,116,A
-El resplandor,8.4,1.1M,1980,146,13
-El gran dictador,8.4,237K,1940,125,A
-Aliens: El regreso,8.4,761K,1986,137,13
-Malditos bastardos,8.4,1.6M,2009,153,18
-El caballero oscuro: La leyenda renace,8.4,1.8M,2012,164,13
-¿Teléfono rojo? Volamos hacia Moscú,8.4,517K,1964,95,18
-American Beauty,8.3,1.2M,1999,122,18
-Old Boy,8.3,633K,2003,120,18
-Coco,8.4,587K,2017,105,A
-Amadeus,8.4,427K,1984,160,A
+Raiders of the Lost Ark,8.4,1M,1981,115,+7
+The Lives of Others,8.4,409K,2006,137,+18
+Sunset Blvd.,8.4,236K,1950,110,A
+Paths of Glory,8.4,212K,1957,88,A
+Avengers: Infinity War,8.4,1.2M,2018,149,+13
+Spider-Man: Into the Spider-Verse,8.4,668K,2018,117,+7
+Witness for the Prosecution,8.4,137K,1957,116,A
+The Shining,8.4,1.1M,1980,146,+18
+The Great Dictator,8.4,237K,1940,125,A
+Aliens,8.4,761K,1986,137,+18
+Inglourious Basterds,8.4,1.6M,2009,153,+18
+The Dark Knight Rises,8.4,1.8M,2012,164,+13
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,517K,1964,95,+7
+American Beauty,8.3,1.2M,1999,122,+18
+Oldboy,8.3,633K,2003,0,Not Rated
+Coco,8.4,587K,2017,105,+7
+Amadeus,8.4,427K,1984,160,+7
 Toy Story,8.3,1.1M,1995,81,A
-El submarino (Das Boot),8.4,264K,1981,149,13
-Braveheart,8.3,1.1M,1995,178,18
-Vengadores: Endgame,8.4,1.3M,2019,181,7
-Joker,8.4,1.5M,2019,122,18
-La princesa Mononoke,8.3,432K,1997,134,7
-El indomable Will Hunting,8.3,1.1M,1997,126,A
-Your Name.,8.4,318K,2016,106,A
-Érase una vez en América,8.3,377K,1984,229,18
-El infierno del odio,8.4,53K,1963,143,13
-3 Idiots,8.4,433K,2009,170,13
-Cantando bajo la lluvia,8.3,260K,1952,103,A
-Cafarnaúm,8.4,105K,2018,126,16
-Oppenheimer,8.3,705K,2023,180,13
-Réquiem por un sueño,8.3,896K,2000,102,18
-Masacre (Ven y mira),8.4,96K,1985,142,18
+Das Boot,8.4,264K,1981,149,
+Braveheart,8.3,1.1M,1995,178,+18
+Avengers: Endgame,8.4,1.3M,2019,181,+13
+Joker,8.4,1.5M,2019,122,+18
+Princess Mononoke,8.3,432K,1997,134,+13
+Good Will Hunting,8.3,1.1M,1997,126,+18
+Your Name.,8.4,318K,2016,106,
+Once Upon a Time in America,8.3,377K,1984,229,+18
+High and Low,8.4,53K,1963,143,Not Rated
+3 Idiots,8.4,433K,2009,170,+13
+Singin' in the Rain,8.3,260K,1952,103,A
+Capernaum,8.4,105K,2018,126,+18
+Oppenheimer,8.3,705K,2023,0,Not Rated
+Requiem for a Dream,8.3,896K,2000,102,Not Rated
+Come and See,8.4,96K,1985,142,Not Rated
 Toy Story 3,8.3,890K,2010,103,A
-El retorno del jedi,8.3,1.1M,1983,131,A
-¡Olvídate de mí!,8.3,1.1M,2004,108,13
-La caza,8.3,363K,2012,115,13
-2001: Una odisea del espacio,8.3,717K,1968,149,A
-Reservoir Dogs,8.3,1.1M,1992,99,18
-Vivir,8.3,87K,1952,143,13
-Lawrence de Arabia,8.3,313K,1962,218,A
-El apartamento,8.3,196K,1960,125,13
-Con la muerte en los talones,8.3,345K,1959,136,13
-Ciudadano Kane,8.3,465K,1941,119,A
-Incendios,8.3,199K,2010,131,13
-Vértigo (De entre los muertos),8.3,426K,1958,128,A
-"M, el vampiro de Düsseldorf",8.3,168K,1931,117,13
-Perdición,8.3,167K,1944,107,A
-El precio del poder,8.3,914K,1983,170,18
-Amelie,8.3,793K,2001,122,A
-La chaqueta metálica,8.3,789K,1987,116,18
-La naranja mecánica,8.3,879K,1971,136,18
-Heat,8.3,717K,1995,170,13
-Up,8.3,1.1M,2009,96,A
-Matar a un ruiseñor,8.3,332K,1962,129,18
-El golpe,8.3,279K,1973,129,A
-"Nader y Simin, una separación",8.3,258K,2011,123,7
-Indiana Jones y la última cruzada,8.2,809K,1989,127,A
-Jungla de cristal,8.2,943K,1988,132,13
-Metrópolis,8.3,185K,1927,153,A
-Taare Zameen Par,8.3,206K,2007,162,7
-Hamilton,8.3,113K,2020,160,13
-Snatch. Cerdos y diamantes,8.2,908K,2000,104,18
-L.A. Confidential,8.2,616K,1997,138,18
-Ladrón de bicicletas,8.3,175K,1948,89,A
-1917,8.2,672K,2019,119,13
-Taxi Driver,8.2,917K,1976,114,18
-El hundimiento,8.2,374K,2004,156,18
-Dangal,8.3,210K,2016,161,A
-La muerte tenía un precio,8.2,274K,1965,132,18
-Batman Begins,8.2,1.6M,2005,140,13
-El lobo de Wall Street,8.2,1.6M,2013,180,16
-Con faldas y a lo loco,8.2,283K,1959,121,A
-El chico,8.2,134K,1921,68,A
-Green Book,8.2,567K,2018,130,13
-El padre,8.2,192K,2020,97,7
-Vencedores o vencidos,8.3,85K,1961,179,18
-Eva al desnudo,8.2,138K,1950,138,13
-El show de Truman,8.2,1.2M,1998,103,A
-Top Gun: Maverick,8.2,690K,2022,130,13
-Shutter Island,8.2,1.4M,2010,138,13
-Pozos de ambición,8.2,639K,2007,158,13
-Casino,8.2,562K,1995,178,18
-Ran,8.2,136K,1985,160,13
-Jurassic Park (Parque Jurásico),8.2,1.1M,1993,127,13
-El sexto sentido,8.2,1M,1999,107,13
-El laberinto del fauno,8.2,702K,2006,118,18
-Sin perdón,8.2,435K,1992,130,18
-No es país para viejos,8.2,1.1M,2007,122,18
-Una mente maravillosa,8.2,984K,2001,135,A
-La cosa (El enigma de otro mundo),8.2,465K,1982,109,13
-El tesoro de Sierra Madre,8.2,132K,1948,126,18
-Kill Bill: Volumen 1,8.2,1.2M,2003,111,18
-Yojimbo,8.2,131K,1961,110,13
-Los caballeros de la mesa cuadrada y sus locos seguidores,8.2,569K,1975,91,A
-La gran evasión,8.2,258K,1963,172,18
-Buscando a Nemo,8.2,1.1M,2003,100,A
-Rashomon,8.2,180K,1950,88,13
-Prisioneros,8.2,806K,2013,153,16
-El castillo ambulante,8.2,447K,2004,119,7
-El hombre elefante,8.2,258K,1980,124,16
-Chinatown,8.1,349K,1974,130,A
-Crimen perfecto,8.2,188K,1954,105,A
-Lo que el viento se llevó,8.2,333K,1939,238,A
-V de vendetta,8.2,1.2M,2005,132,13
-Lock & Stock,8.1,615K,1998,107,18
-El secreto de sus ojos,8.2,222K,2009,129,7
-Del revés (Inside Out),8.1,782K,2015,95,A
-Toro salvaje,8.1,379K,1980,129,13
-Tres anuncios en las afueras,8.1,553K,2017,115,16
-Trainspotting,8.1,724K,1996,93,18
-El puente sobre el río Kwai,8.1,233K,1957,161,A
-Spider-Man: No Way Home,8.2,874K,2021,148,7
-Fargo,8.1,725K,1996,98,18
-Klaus,8.2,189K,2019,96,A
-Warrior,8.1,497K,2011,140,13
-Atrápame si puedes,8.1,1.1M,2002,141,7
-Godzilla Minus One,8.3,47K,2023,124,13
-Gran Torino,8.1,813K,2008,116,13
-Mi vecino Totoro,8.1,378K,1988,86,A
-Million Dollar Baby,8.1,720K,2004,132,13
-Harry Potter y las Reliquias de la Muerte: Parte 2,8.1,945K,2011,130,7
-Children of Heaven,8.2,80K,1997,89,13
-12 años de esclavitud,8.1,740K,2013,134,16
-Blade Runner,8.1,821K,1982,117,13
-Antes de amanecer,8.1,338K,1995,101,13
+Star Wars: Episode VI - Return of the Jedi,8.3,1.1M,1983,131,+7
+Eternal Sunshine of the Spotless Mind,8.3,1.1M,2004,108,+18
+The Hunt,8.3,363K,2012,115,+18
+2001: A Space Odyssey,8.3,717K,1968,149,A
+Reservoir Dogs,8.3,1.1M,1992,99,+18
+Ikiru,8.3,87K,1952,143,Not Rated
+Lawrence of Arabia,8.3,313K,1962,218,A
+The Apartment,8.3,196K,1960,125,A
+North by Northwest,8.3,345K,1959,136,A
+Citizen Kane,8.3,465K,1941,119,+7
+Incendies,8.3,199K,2010,131,+18
+Vertigo,8.3,426K,1958,128,+7
+M,8.3,168K,1931,99,A
+Double Indemnity,8.3,167K,1944,107,A
+Scarface,8.3,914K,1983,170,+18
+Amélie,8.3,793K,2001,122,+18
+Full Metal Jacket,8.3,789K,1987,116,+18
+A Clockwork Orange,8.3,879K,1971,136,+18
+Heat,8.3,717K,1995,170,+18
+Up,8.3,1.1M,2009,96,+7
+To Kill a Mockingbird,8.3,332K,1962,129,A
+The Sting,8.3,279K,1973,129,+7
+A Separation,8.3,258K,2011,123,+13
+Indiana Jones and the Last Crusade,8.2,809K,1989,127,+13
+Die Hard,8.2,943K,1988,132,+18
+Metropolis,8.3,185K,1927,153,Not Rated
+Like Stars on Earth,8.3,206K,2007,162,+7
+Hamilton,8.3,113K,2020,160,+13
+Snatch,8.2,908K,2000,102,+18
+L.A. Confidential,8.2,616K,1997,138,+18
+Bicycle Thieves,8.3,175K,1948,89,Not Rated
+1917,8.2,672K,2019,119,+18
+Taxi Driver,8.2,917K,1976,114,+18
+Downfall,8.2,374K,2004,156,+18
+Dangal,8.3,210K,2016,161,Not Rated
+For a Few Dollars More,8.2,274K,1965,132,+18
+Batman Begins,8.2,1.6M,2005,140,+13
+The Wolf of Wall Street,8.2,1.6M,2013,0,Not Rated
+Some Like It Hot,8.2,283K,1959,121,A
+Green Book,8.2,567K,2018,130,+13
+The Kid,8.2,134K,1921,68,A
+The Father,8.2,192K,2020,97,+13
+Judgment at Nuremberg,8.3,85K,1961,179,A
+All About Eve,8.2,138K,1950,138,A
+The Truman Show,8.2,1.2M,1998,103,+7
+Top Gun: Maverick,8.2,690K,2022,130,+13
+Shutter Island,8.2,1.5M,2010,138,+18
+There Will Be Blood,8.2,639K,2007,158,+18
+Casino,8.2,562K,1995,178,+18
+Ran,8.2,136K,1985,160,+18
+Jurassic Park,8.2,1.1M,1993,127,+13
+The Sixth Sense,8.2,1M,1999,107,+13
+Pan's Labyrinth,8.2,702K,2006,118,+18
+Unforgiven,8.2,435K,1992,130,+18
+No Country for Old Men,8.2,1.1M,2007,122,+18
+A Beautiful Mind,8.2,984K,2001,135,+13
+The Thing,8.2,465K,1982,109,+18
+The Treasure of the Sierra Madre,8.2,132K,1948,126,A
+Kill Bill: Vol. 1,8.2,1.2M,2003,111,+18
+Yojimbo,8.2,131K,1961,110,Not Rated
+Monty Python and the Holy Grail,8.2,569K,1975,91,+7
+The Great Escape,8.2,258K,1963,172,A
+Finding Nemo,8.2,1.1M,2003,100,A
+Rashomon,8.2,180K,1950,88,Not Rated
+Prisoners,8.2,806K,2013,153,+18
+Howl's Moving Castle,8.2,447K,2004,119,+7
+The Elephant Man,8.2,258K,1980,124,+7
+Chinatown,8.1,349K,1974,130,+18
+Dial M for Murder,8.2,188K,1954,105,+7
+Gone with the Wind,8.2,333K,1939,238,A
+V for Vendetta,8.2,1.2M,2005,132,+18
+"Lock, Stock and Two Smoking Barrels",8.1,615K,1998,107,+18
+The Secret in Their Eyes,8.2,222K,2009,129,+18
+Inside Out,8.1,782K,2015,95,+7
+Raging Bull,8.1,379K,1980,129,+18
+"Three Billboards Outside Ebbing, Missouri",8.1,553K,2017,115,+18
+Trainspotting,8.1,724K,1996,93,+18
+The Bridge on the River Kwai,8.1,233K,1957,161,+7
+Spider-Man: No Way Home,8.2,874K,2021,148,+13
+Fargo,8.1,725K,1996,98,+18
+Klaus,8.2,189K,2019,96,+7
+Warrior,8.1,497K,2011,140,+13
+Catch Me If You Can,8.1,1.1M,2002,141,+13
+Godzilla Minus One,8.3,47K,2023,124,+13
+Gran Torino,8.1,813K,2008,116,+18
+My Neighbor Totoro,8.1,379K,1988,86,A
+Million Dollar Baby,8.1,720K,2004,132,+13
+Harry Potter and the Deathly Hallows: Part 2,8.1,945K,2011,130,+13
+Children of Heaven,8.2,80K,1997,89,+7
+12 Years a Slave,8.1,740K,2013,134,+18
+Blade Runner,8.1,821K,1982,117,+18
+Before Sunrise,8.1,338K,1995,101,+18
 Ben-Hur,8.1,253K,1959,212,A
-El gran hotel Budapest,8.1,884K,2014,99,13
-Barry Lyndon,8.1,183K,1975,185,18
-Perdida,8.1,1.1M,2014,149,16
-Hasta el último hombre (Hacksaw Ridge),8.1,591K,2016,139,16
-La quimera del oro,8.1,118K,1925,95,A
-Memories of Murder (Crónica de un asesino en serie),8.1,215K,2003,131,18
-En el nombre del padre,8.1,187K,1993,133,13
-El club de los poetas muertos,8.1,543K,1989,128,13
-La ley del silencio,8.1,164K,1954,108,7
-El maquinista de La General,8.1,98K,1926,78,A
-El cazador,8.1,361K,1978,183,18
-Relatos salvajes,8.1,216K,2014,122,16
-Mad Max: Furia en la carretera,8.1,1.1M,2015,120,16
-"Monstruos, S.A.",8.1,976K,2001,92,A
-El moderno Sherlock Holmes,8.2,57K,1924,45,A
-El tercer hombre,8.1,181K,1949,104,A
-Fresas salvajes,8.1,115K,1957,91,7
-El salario del miedo,8.2,66K,1953,131,18
-Tiburón,8.1,658K,1975,124,16
-Cómo entrenar a tu dragón,8.1,798K,2010,98,7
-Mary and Max,8.1,186K,2009,92,13
-Caballero sin espada,8.1,121K,1939,129,A
+The Grand Budapest Hotel,8.1,884K,2014,99,+18
+Barry Lyndon,8.1,183K,1975,185,+7
+Gone Girl,8.1,1.1M,2014,149,+18
+Hacksaw Ridge,8.1,591K,2016,139,+18
+The Gold Rush,8.1,118K,1925,95,A
+Memories of Murder,8.1,215K,2003,132,Not Rated
+In the Name of the Father,8.1,187K,1993,133,+18
+Dead Poets Society,8.1,543K,1989,128,+7
+On the Waterfront,8.1,164K,1954,108,A
+The General,8.1,98K,1926,78,A
+The Deer Hunter,8.1,361K,1978,183,+18
+Wild Tales,8.1,216K,2014,122,+18
+Mad Max: Fury Road,8.1,1.1M,2015,0,Not Rated
+"Monsters, Inc.",8.1,976K,2001,92,A
+Sherlock Jr.,8.2,57K,1924,45,A
+The Third Man,8.1,181K,1949,93,A
+Wild Strawberries,8.1,115K,1957,91,Not Rated
+The Wages of Fear,8.2,66K,1953,131,Not Rated
+Jaws,8.1,658K,1975,124,+7
+How to Train Your Dragon,8.1,798K,2010,98,+7
+Mary and Max,8.1,186K,2009,92,Not Rated
+Mr. Smith Goes to Washington,8.1,121K,1939,129,A
 Ratatouille,8.1,821K,2007,111,A
-Le Mans '66,8.1,469K,2019,152,7
-El gran Lebowski,8.1,858K,1998,117,13
-La habitación,8.1,449K,2015,118,13
-El séptimo sello,8.1,198K,1957,96,13
-Cuentos de Tokio,8.1,68K,1953,136,A
-Rocky,8.1,627K,1976,120,18
-Logan,8.1,828K,2017,137,16
-Spotlight,8.1,501K,2015,129,13
-Hotel Rwanda,8.1,371K,2004,121,13
-Platoon,8.1,438K,1986,120,18
-Terminator,8.1,922K,1984,107,18
-La pasión de Juana de Arco,8.1,60K,1928,110,13
-Antes del atardecer,8.1,287K,2004,80,13
-El odio,8.1,196K,1995,98,18
-Los mejores años de nuestra vida,8.1,70K,1946,170,A
-El exorcista,8.1,454K,1973,122,13
-Piratas del Caribe: La maldición de la Perla Negra,8.1,1.2M,2003,143,7
-Rush,8.1,512K,2013,123,13
-Jai Bhim,8.7,217K,2021,164,13
-"Network, un mundo implacable",8.1,170K,1976,121,18
-Cuenta conmigo,8.1,440K,1986,89,A
-El mago de Oz,8.1,428K,1939,102,A
-Los Increíbles,8.0,806K,2004,115,A
-Siempre a tu lado (Hachiko),8.1,310K,2009,93,A
-La doncella,8.1,172K,2016,145,16
-Hacia rutas salvajes,8.1,657K,2007,148,7
-Mi padre y mi hijo,8.2,92K,2005,112,13
-Sonrisas y lágrimas,8.1,260K,1965,172,A
-Las uvas de la ira,8.1,100K,1940,129,A
-La batalla de Argel,8.1,65K,1966,121,18
-Ser o no ser,8.1,43K,1942,99,A
-Atrapado en el tiempo,8.0,683K,1993,101,13
-Amores perros,8.1,252K,2000,154,18
-Rebeca,8.1,146K,1940,130,16
-La leyenda del indomable,8.1,188K,1967,127,7
-El gigante de hierro,8.1,226K,1999,86,A
-Criadas y señoras,8.1,491K,2011,146,A
-Sucedió una noche,8.1,112K,1934,105,A
-Aladdín,8.0,465K,1992,90,A
-Bailando con lobos,8.0,290K,1990,181,A
-"Paris, Texas",8.1,118K,1984,145,A
+Ford v Ferrari,8.1,469K,2019,152,+13
+The Big Lebowski,8.1,858K,1998,117,+18
+Room,8.1,449K,2015,118,+18
+The Seventh Seal,8.1,198K,1957,96,Not Rated
+Tokyo Story,8.1,68K,1953,136,Not Rated
+Rocky,8.1,627K,1976,120,+7
+Logan,8.1,828K,2017,137,+18
+Spotlight,8.1,501K,2015,129,+18
+Hotel Rwanda,8.1,371K,2004,121,+13
+Platoon,8.1,438K,1986,0,Not Rated
+The Terminator,8.1,922K,1984,107,+18
+The Passion of Joan of Arc,8.1,60K,1928,114,A
+Before Sunset,8.1,287K,2004,80,+18
+La haine,8.1,196K,1995,98,Not Rated
+The Best Years of Our Lives,8.1,70K,1946,170,A
+The Exorcist,8.1,454K,1973,122,+18
+Pirates of the Caribbean: The Curse of the Black Pearl,8.1,1.2M,2003,143,+13
+Jai Bhim,8.7,217K,2021,164,A
+Rush,8.1,512K,2013,123,+18
+Network,8.1,170K,1976,121,+18
+Stand by Me,8.1,440K,1986,89,+18
+The Wizard of Oz,8.1,428K,1939,102,A
+The Incredibles,8.0,806K,2004,115,+7
+Hachi: A Dog's Tale,8.1,310K,2009,93,A
+The Handmaiden,8.1,172K,2016,145,Not Rated
+Into the Wild,8.1,657K,2007,148,+18
+My Father and My Son,8.2,92K,2005,112,Not Rated
+The Sound of Music,8.1,260K,1965,172,A
+The Grapes of Wrath,8.1,100K,1940,129,A
+To Be or Not to Be,8.1,43K,1942,99,A
+The Battle of Algiers,8.1,65K,1966,121,Not Rated
+Groundhog Day,8.0,683K,1993,101,+7
+Amores Perros,8.1,252K,2000,154,+18
+Rebecca,8.1,146K,1940,130,A
+Cool Hand Luke,8.1,188K,1967,127,+7
+The Iron Giant,8.1,226K,1999,86,+7
+The Help,8.1,491K,2011,146,+13
+It Happened One Night,8.1,112K,1934,105,A
+Aladdin,8.0,465K,1992,90,A
+Dances with Wolves,8.0,290K,1990,181,+13
+"Paris, Texas",8.1,118K,1984,145,+18
