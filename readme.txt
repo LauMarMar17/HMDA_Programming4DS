@@ -4,7 +4,7 @@ AUTHORS:
 - Laura Ramírez Moraleda
 - Laura Teresa Martínez Marquina
 
-REPOSITORY STRUCTURE
+REPOSITORY STRUCTURE ("Code" folder)
 .
 ├── Data_visualization
 │   └── data-visualization.ipynb
@@ -37,14 +37,16 @@ FOLDERS AND FILES:
     msedgedriver.exe to be able to connect to the browser, and a useful.py with some important functions used in the 
     scrapping process.
 
+EXECUTION INSTRUCTIONS:
+
+Firstly, the notebook data_scrapping.ipynb should be entirely executed, so the information is obtained and the csv files saved in the Outputs folder.
+Then, the data-visualization.ipynb can be executed.
+
 VIDEO LINK:
 https://drive.google.com/file/d/1kOaLQGkw5ywFawMTczQyIzQ_z9IaRyK9/view?usp=sharing
-
 
 LINK FOR THE CANVA PRESENTATION:
 https://www.canva.com/design/DAGBiBlmPpk/e70LfX1ZaVwqDh-y3dcSZw/edit?utm_content=DAGBiBlmPpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-
 LINK FOR GITHUB REPOSITORY:
 https://github.com/LauMarMar17/HMDA_Programming4DS.git
-
