@@ -38,6 +38,13 @@ FOLDERS AND FILES:
     scrapping process.
 
 VIDEO LINK:
+https://drive.google.com/file/d/1kOaLQGkw5ywFawMTczQyIzQ_z9IaRyK9/view?usp=sharing
 
 
+LINK FOR THE CANVA PRESENTATION:
+https://www.canva.com/design/DAGBiBlmPpk/e70LfX1ZaVwqDh-y3dcSZw/edit?utm_content=DAGBiBlmPpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+LINK FOR GITHUB REPOSITORY:
+https://github.com/LauMarMar17/HMDA_Programming4DS.git
 
